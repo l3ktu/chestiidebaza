@@ -7,8 +7,7 @@ body {
   color: #fff;
 }
 #mapRow {
-  height: 70%;
-  width: 60%;
+  height: 100%;
 }
 #mapCol {
   height: 100%;
